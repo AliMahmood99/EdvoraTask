@@ -19,10 +19,10 @@
 
 
 
-## Screenshots
->Home Page 
+### Screenshots
+## Home Page 
 ![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 37 08](https://user-images.githubusercontent.com/74264180/156803201-668f98c7-58d1-4fb0-9bf2-564ca09d8d04.png)
->Filter 
+## Filter 
 ![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 37 22](https://user-images.githubusercontent.com/74264180/156803212-d287ad35-9f56-4315-b1a8-76935c9be7aa.png)
 
 ![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 37 36](https://user-images.githubusercontent.com/74264180/156803225-a577c87d-b053-4e69-8eb3-f77f9b7a22c9.png)
