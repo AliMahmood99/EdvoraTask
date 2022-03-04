@@ -1,9 +1,9 @@
 # Edvora Task
-> In this app:
+> Product feature:
 - Connected the API and displays a list of products.
-- Created it and implemented all the project using swiftUI.
-- Add filter feature.
-
+- Created all the project using swiftUI.
+- Add filter feature Useing Higher order functions.
+- Reusable Componets.
 
 
 ## Which design pattern I used?
@@ -20,10 +20,11 @@
 
 
 ## Screenshots
-<img width="370" alt="Screenshot 2022-02-21 at 7 00 01 AM" src="https://user-images.githubusercontent.com/74264180/156801404-fc142f27-f394-425c-96b1-21535af73612.png">
-<!-- If you have screenshots you'd like to share, include them here. -->
+Home Page 
+![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 37 08](https://user-images.githubusercontent.com/74264180/156803201-668f98c7-58d1-4fb0-9bf2-564ca09d8d04.png)
+Filter 
+![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 37 22](https://user-images.githubusercontent.com/74264180/156803212-d287ad35-9f56-4315-b1a8-76935c9be7aa.png)
 
+![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 37 36](https://user-images.githubusercontent.com/74264180/156803225-a577c87d-b053-4e69-8eb3-f77f9b7a22c9.png)
 
-
-
-
+![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 37 42](https://user-images.githubusercontent.com/74264180/156803229-7cd71d29-d831-4bd1-967a-0d6e37196134.png)
