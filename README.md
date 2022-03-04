@@ -21,10 +21,10 @@
 
 ### Screenshots
 ## Home Page 
-![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 37 08](https://user-images.githubusercontent.com/74264180/156803201-668f98c7-58d1-4fb0-9bf2-564ca09d8d04.png)
+![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 47 26](https://user-images.githubusercontent.com/74264180/156805016-ace6fc35-e914-4976-973d-0ecfce6adb71.png)
 ## Filter 
-![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 37 22](https://user-images.githubusercontent.com/74264180/156804235-0c25fdbf-f8ed-40c4-ad86-cb56e5f423a0.png)
+![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 47 29](https://user-images.githubusercontent.com/74264180/156804868-a6edfdda-59a6-464e-b4cf-a21849b4b7a4.png)
 
-![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 37 36](https://user-images.githubusercontent.com/74264180/156803225-a577c87d-b053-4e69-8eb3-f77f9b7a22c9.png)
+![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 47 40](https://user-images.githubusercontent.com/74264180/156804922-4cbb02bf-7d37-4402-9f74-c99a764ada63.png)
 
-![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 37 42](https://user-images.githubusercontent.com/74264180/156803229-7cd71d29-d831-4bd1-967a-0d6e37196134.png)
+![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 47 48](https://user-images.githubusercontent.com/74264180/156804964-702f58c8-22b1-4bd2-8f3c-9694c5604ebe.png)
