@@ -13,13 +13,12 @@
 - The view model better expresses the business logic for the view.
 - A view model is much easier to test than a view controller. You end up testing business logic without having to worry about view implementations.
 
+# Video
+
+https://user-images.githubusercontent.com/74264180/156886993-e028607b-7000-4445-9c38-05ef032d4786.mov
 
 
-
-
-
-
-### Screenshots
+# Screenshots
 ## Home Page 
 ![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 47 26](https://user-images.githubusercontent.com/74264180/156805016-ace6fc35-e914-4976-973d-0ecfce6adb71.png)
 ## Filter 
@@ -28,3 +27,8 @@
 ![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 47 40](https://user-images.githubusercontent.com/74264180/156804922-4cbb02bf-7d37-4402-9f74-c99a764ada63.png)
 
 ![Simulator Screen Shot - iPhone 11 - 2022-03-04 at 18 47 48](https://user-images.githubusercontent.com/74264180/156804964-702f58c8-22b1-4bd2-8f3c-9694c5604ebe.png)
+
+
+
+
+
