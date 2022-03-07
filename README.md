@@ -1,7 +1,7 @@
 # Edvora Task
 > Product feature:
 - Connected the API and displays a list of products.
-- Created all the project using swiftUI.
+- Created all the project using **swiftUI**.
 - Add filter feature Useing Higher order functions.
 - Reusable Componets.
 
