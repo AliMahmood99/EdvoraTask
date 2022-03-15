@@ -7,6 +7,8 @@
 
 
 ## Which design pattern I used?
+> **MVVM**:
+
 > MVVM offers some advantages over MVC:
 
 - MVVM makes the view controller simpler by moving a lot of business logic out of it.
